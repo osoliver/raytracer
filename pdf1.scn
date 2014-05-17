@@ -1,0 +1,97 @@
+camera
+0 on x
+0 on y
+40 on z
+0 as x angle
+0 as y angle
+0 as z angle
+light
+0 on x
+0 on y
+10 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as color alpha
+200 as color red
+200 as color green
+200 as color blue
+#NULL as texture
+#NULL as bump
+cylinder
+-5 on x
+0 on y
+2 on z
+0 as x angle
+0 as y angle
+45 as z angle
+0 as reflexion
+0 as refraction
+0 as opacity
+0 as normal
+4 as par1 = radius
+0 as par2 = NONE
+0 as texture width
+0 as texture height
+0 as color alpha
+204 as color red
+14 as color green
+201 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+plane
+0 on x
+-15 on y
+0 on z
+0 as normal vector x
+1 as normal vector y
+0 as normal vector z
+0 as reflexion
+0 as refraction
+0 as opacity
+0 as normal
+0 as par1 (unused)
+0 as par2 = NONE
+0 as texture width
+0 as texture height
+0 as color alpha
+181 as color red
+181 as color green
+181 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+plane
+0 on x
+0 on y
+-15 on z
+0 as normal vector x
+0 as normal vector y
+1 as normal vector z
+0 as reflexion
+0 as refraction
+0 as opacity
+0 as normal
+0 as par1 (unused)
+0 as par2 = NONE
+0 as texture width
+0 as texture height
+0 as color alpha
+62 as color red
+179 as color green
+230 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+
+# rotation angles are implemented first on the z axis, then on the y axis and eventually on the x axis.

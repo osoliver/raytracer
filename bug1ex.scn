@@ -1,0 +1,222 @@
+camera
+0 on x
+0 on y
+40 on z
+0 as x angle
+0 as y angle
+0 as z angle
+sphere
+-9 on x
+-11 on y
+0 on z
+0 as x angle
+180 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+0 as opacity
+0 as normal
+18 as par1 = radius
+0 as par2 = NONE
+1080 as texture width
+512 as texture height
+0 as color alpha
+140 as color red
+130 as color green
+76 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+textures/earth.xpm as texture
+#NULL as bump
+sphere
+9 on x
+-11 on y
+0 on z
+0 as x angle
+0 as y angle
+0 as z angle
+1 as reflexion
+0 as refraction
+0 as opacity
+0 as normal
+4 as par1 = radius
+0 as par2 = NONE
+0 as texture width
+0 as texture height
+0 as color alpha
+5 as color red
+5 as color green
+5 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL
+#NULL as bump
+light
+10 on x
+10 on y
+50 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as color alpha
+200 as color red
+200 as color green
+200 as color blue
+#NULL as texture
+#NULL as bump
+plane
+0 on x
+0 on y
+-15 on z
+0 as normal vector x
+0 as normal vector y
+1 as normal vector z
+1 as reflexion
+0 as refraction
+0 as opacity
+0 as normal
+0 as par1 (unused)
+0 as par2 = NONE
+0 as texture width
+0 as texture height
+0 as color alpha
+70 as color red
+170 as color green
+70 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+plane
+0 on x
+0 on y
+80 on z
+0 as normal vector x
+0 as normal vector y
+-1 as normal vector z
+1 as reflexion
+0 as refraction
+0 as opacity
+0 as normal
+0 as par1 (unused)
+0 as par2 = NONE
+0 as texture width
+0 as texture height
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+plane
+30 on x
+0 on y
+0 on z
+-1 as normal vector x
+0 as normal vector y
+0 as normal vector z
+1 as reflexion
+0 as refraction
+0 as opacity
+0 as normal
+1 as par1 (unused)
+0 as par2 = NONE
+0 as texture width
+0 as texture height
+0 as color alpha
+170 as color red
+70 as color green
+70 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+plane
+-30 on x
+0 on y
+0 on z
+1 as normal vector x
+0 as normal vector y
+0 as normal vector z
+1 as reflexion
+0 as refraction
+0 as opacity
+0 as normal
+2 as par1 (unused)
+0 as par2 = NONE
+0 as texture width
+0 as texture height
+0 as color alpha
+70 as color red
+70 as color green
+170 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+checker
+0 on x
+-15 on y
+0 on z
+0 as normal vector x
+1 as normal vector y
+0 as normal vector z
+0 as reflexion
+0 as refraction
+0 as opacity
+0 as normal
+9 as par1 (unused)
+0 as par2 = NONE
+0 as texture width
+0 as texture height
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL
+#NULL as bump
+plane
+0 on x
+15 on y
+0 on z
+0 as normal vector x
+-1 as normal vector y
+0 as normal vector z
+1 as reflexion
+0 as refraction
+0 as opacity
+0 as normal
+0 as par1 (unused)
+0 as par2 = NONE
+0 as texture width
+0 as texture height
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+
+# rotation angles are implemented first on the z axis, then on the y axis and eventually on the x axis.

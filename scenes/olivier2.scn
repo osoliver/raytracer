@@ -1,0 +1,486 @@
+camera
+0 on x
+0 on y
+20 on z
+0 as x angle
+0 as y angle
+0 as z angle
+sphere
+0 on x
+0 on y
+0 on z
+0 as x angle
+0 as y angle
+0 as z angle
+1 as reflexion
+0 as refraction
+150 as specular
+0 as normal
+4 as par1 = radius
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+sphere
+10 on x
+0 on y
+0 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0.2 as reflexion
+0 as refraction
+100 as specular
+0 as normal
+4 as par1 = radius
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+55 as color red
+0 as color green
+0 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+sphere
+10 on x
+0 on y
+-20 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+150 as specular
+0 as normal
+4 as par1 = radius
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+255 as color red
+210 as color green
+110 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+sphere
+-20 on x
+12 on y
+-18 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+150 as specular
+0 as normal
+4 as par1 = radius
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+125 as color red
+150 as color green
+250 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+sphere
+2 on x
+-2 on y
+7 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as reflexion
+1.5 as refraction
+100 as specular
+0 as normal
+2 as par1 = radius
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+55 as color red
+0 as color green
+0 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+sphere
+-12 on x
+0 on y
+0 on z
+0 as x angle
+45 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+200 as specular
+0 as normal
+4 as par1 = radius
+0 as par2 = NONE
+800 as twdt
+600 as thgt
+0 as color alpha
+55 as color red
+180 as color green
+130 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+textures/grass.xpm as texture
+#NULL as bump
+sphere
+-5 on x
+8 on y
+-3 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0.3 as reflexion
+0 as refraction
+150 as specular
+0 as normal
+2 as par1 = radius
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+85 as color red
+250 as color green
+50 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+sphere
+13 on x
+20 on y
+-25 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0.6 as reflexion
+0 as refraction
+150 as specular
+0 as normal
+12 as par1 = radius
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+240 as color red
+30 as color green
+80 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+sphere
+15 on x
+12 on y
+0 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+420 as specular
+0 as normal
+3 as par1 = radius
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+240 as color red
+30 as color green
+80 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+sphere
+15 on x
+-2 on y
+0 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+180 as specular
+0 as normal
+2 as par1 = radius
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+40 as color red
+180 as color green
+240 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+sphere
+-5 on x
+-2 on y
+8 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+180 as specular
+0 as normal
+2 as par1 = radius
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+210 as color red
+20 as color green
+240 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+light
+0 on x
+20 on y
+20 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as color alpha
+105 as color red
+105 as color green
+105 as color blue
+#NULL as texture
+#NULL as bump
+light
+-30 on x
+20 on y
+20 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as color alpha
+25 as color red
+145 as color green
+205 as color blue
+#NULL as texture
+#NULL as bump
+light
+30 on x
+30 on y
+-30 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as color alpha
+150 as color red
+45 as color green
+25 as color blue
+#NULL as texture
+#NULL as bump
+light
+40 on x
+10 on y
+20 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as color alpha
+240 as color red
+224 as color green
+198 as color blue
+#NULL as texture
+#NULL as bump
+plane
+0 on x
+80 on y
+0 on z
+0 as normal vector x
+-1 as normal vector y
+0 as normal vector z
+1 as reflexion
+0 as refraction
+0 as specular
+0 as normal
+9 as par1 (unused)
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+plane
+0 on x
+0 on y
+150 on z
+0 as normal vector x
+0 as normal vector y
+-1 as normal vector z
+0 as reflexion
+0 as refraction
+0 as specular
+0 as normal
+9 as par1 (unused)
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+plane
+0 on x
+0 on y
+-60 on z
+0 as normal vector x
+0 as normal vector y
+1 as normal vector z
+1 as reflexion
+0 as refraction
+0 as specular
+0 as normal
+9 as par1 (unused)
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+plane
+60 on x
+0 on y
+0 on z
+-1 as normal vector x
+0 as normal vector y
+0 as normal vector z
+1 as reflexion
+0 as refraction
+0 as specular
+0 as normal
+0 as par1 (unused)
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+plane
+-60 on x
+0 on y
+0 on z
+1 as normal vector x
+0 as normal vector y
+0 as normal vector z
+0.5 as reflexion
+0 as refraction
+0 as specular
+0 as normal
+0 as par1 (unused)
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+45 as color red
+155 as color green
+45 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+checker
+0 on x
+-4 on y
+0 on z
+0 as normal vector x
+1 as normal vector y
+0 as normal vector z
+0.3 as reflexion
+0 as refraction
+0 as specular
+0 as normal
+9 as par1 (unused)
+0 as par2 = NONE
+0 as twdt
+0 as thgt
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL as texture
+#NULL as bump
+
+# rotation angles are implemented first on the z axis, then on the y axis and eventually on the x axis.

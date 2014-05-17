@@ -1,0 +1,323 @@
+camera
+0 on x
+0 on y
+70 on z
+0 as x angle
+0 as y angle
+0 as z angle
+sphere
+2 on x
+0 on y
+65 on z
+0 as x angle
+180 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+200 as specular
+0 as normal
+2 as par1 = radius
+0 as par2 = NONE
+1080 as twdt
+512 as thgt
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+textures/earth.xpm as texture
+#NULL as bump
+sphere
+19 on x
+35 on y
+0 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+200 as specular
+0 as normal
+4 as par1 = radius
+0 as par2 = NONE
+1080 as twdt
+512 as thgt
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+textures/mars.xpm as texture
+#NULL as bump
+sphere
+-50 on x
+30 on y
+0 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+200 as specular
+0 as normal
+4 as par1 = radius
+0 as par2 = NONE
+1080 as twdt
+512 as thgt
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+textures/saturn.xpm as texture
+#NULL as bump
+sphere
+-21 on x
+21 on y
+0 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+200 as specular
+0 as normal
+4 as par1 = radius
+0 as par2 = NONE
+1080 as twdt
+512 as thgt
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+textures/mercury.xpm as texture
+#NULL as bump
+sphere
+-50 on x
+0 on y
+0 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+200 as specular
+0 as normal
+2.5 as par1 = radius
+0 as par2 = NONE
+1080 as twdt
+512 as thgt
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+200 as color red
+0 as color green
+0 as color blue
+textures/sun.xpm as texture
+#NULL as bump
+sphere
+70 on x
+-30 on y
+20 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+0 as specular
+0 as normal
+2 as par1 = radius
+0 as par2 = NONE
+1080 as twdt
+512 as thgt
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+textures/neptune.xpm as texture
+#NULL as bump
+sphere
+19 on x
+1 on y
+0 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+200 as specular
+0 as normal
+4 as par1 = radius
+0 as par2 = NONE
+1080 as twdt
+512 as thgt
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+textures/uranus.xpm as texture
+#NULL as bump
+sphere
+-30 on x
+0 on y
+40 on z
+0 as x angle
+0 as y angle
+50 as z angle
+0 as reflexion
+0 as refraction
+200 as specular
+0 as normal
+4 as par1 = radius
+0 as par2 = NONE
+1080 as twdt
+512 as thgt
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+textures/jupiter.xpm as texture
+#NULL as bump
+sphere
+9 on x
+11 on y
+0 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+200 as specular
+0 as normal
+4 as par1 = radius
+0 as par2 = NONE
+1080 as twdt
+512 as thgt
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+textures/pluto.xpm as texture
+#NULL as bump
+sphere
+9 on x
+-11 on y
+0 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as reflexion
+0 as refraction
+0 as specular
+0 as normal
+4 as par1 = radius
+0 as par2 = NONE
+1080 as twdt
+512 as thgt
+0 as color alpha
+0 as color red
+0 as color green
+76 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+textures/venus.xpm as texture
+#NULL as bump
+light
+-47 on x
+0 on y
+5 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as color alpha
+255 as color red
+100 as color green
+100 as color blue
+#NULL as texture
+#NULL as bump
+light
+70 on x
+-30 on y
+30 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as color alpha
+255 as color red
+120 as color green
+200 as color blue
+#NULL as texture
+#NULL as bump
+light
+0 on x
+30 on y
+70 on z
+0 as x angle
+0 as y angle
+0 as z angle
+0 as color alpha
+255 as color red
+255 as color green
+255 as color blue
+#NULL as texture
+#NULL as bump
+plane
+0 on x
+0 on y
+-1000 on z
+0 as normal vector x
+0 as normal vector y
+1 as normal vector z
+0 as reflexion
+0 as refraction
+0 as opacity
+0 as normal
+9 as par1 (unused)
+0 as par2 = NONE
+0 as texture width
+0 as texture height
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+0 as color alpha
+0 as color red
+0 as color green
+0 as color blue
+NULL
+#NULL as bump
+
+# rotation angles are implemented first on the z axis, then on the y axis and eventually on the x axis.
